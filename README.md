@@ -119,6 +119,5 @@ Bash               37 mins  ███▒░░░░░░░░░░░░░�
 </details> 
 <!-- icons site: https://icon-icons.com/search/icons/ -->
 
-If you wonder how i study alone?? -> <a href="https://dkssud8150.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-2A5B93?style=plastic&logo=GitHub Actions&logoColor=white"/></a>
-
+If you wonder how i study alone?? -> <a href="https://dkssud8150.github.io" target="_blank"><img src="https://img.shields.io/badge/Blog-4764bb?style=plastic&logo=GitHub Actions&logoColor=white"/></a> or <a href="https://www.notion.so/18490713817d403696812c57d0abe730" target="_blank"><img src="https://img.shields.io/badge/Notion-4764bb?style=plastic&logo=GitHub Actions&logoColor=white"/></a>
 
